@@ -6,7 +6,7 @@
 ---
 
 ## 💫 About Me:
-👨‍🎓 I’m an graduate at NSBM/Plymouth University.<br>
+👨‍🎓 I’m an undergraduate at NSBM/Plymouth University.<br>
 🖥️ Looking to collaborate on web/mobile development projects.<br>
 💬 Ask me about web/mobile development.<br>
 ✨ Fun fact: I'm lazy but smart.
@@ -37,8 +37,3 @@
 </p>
 
 ---
-
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Vimalaranga&label=Profile%20Views&pretty=false">
-</p>           
-
